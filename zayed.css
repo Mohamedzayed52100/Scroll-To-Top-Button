@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 5000px;
+    scroll-behavior: smooth;
+}
+
+button {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: none;
+}
